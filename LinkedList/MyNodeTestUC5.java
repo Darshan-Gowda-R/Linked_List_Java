@@ -16,7 +16,7 @@ public class MyNodeTest {
 
 		link.append(56);
 		link.append(70);
-		link.insertBetween(56,70,30)
+		link.insertBetween(56,70,30);
 		link.removeFirst();
 		link.print();
 
