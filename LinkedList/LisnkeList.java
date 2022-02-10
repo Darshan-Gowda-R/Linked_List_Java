@@ -48,8 +48,9 @@ public class LinkedList {
 
 
 
-	public void remove() {
+	public void removeFirst() {
 
+		head = head.getNext();
 
 	}
 
